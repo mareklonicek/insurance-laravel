@@ -1,8 +1,21 @@
+# Insurance Management System Project in Laravel
 
-## Insurance Management System Project in Laravel
+## Tables:
+- **Users:** Registered as Brokers
+- **Insurees:** Created by Brokers
+- **Providers:** Chosen for an Insuree
+- **Insurance Types:** Chosen for an Insuree
 
-### Tables: Users(registered as Brokers), Insurees(a log in Broker create them), Providers(chosen for a Insuree), Insurance Types(chosen for a Insuree)
-### Features: Full Crud Application, One-to-many and one-to-one relationships, Eager loading data with related data tables, Pagination, Searching, Authentication, Insuree also with additional properties Status and Extra Orders, One-to-one relation between Insuree and its Insuree Details table
+## Features:
+- Full CRUD Application
+- One-to-many and one-to-one relationships
+- Eager loading data with related data tables
+- Pagination
+- Searching
+- Authentication
+- Insuree with additional properties: Status and Extra Orders
+- One-to-one relation between Insuree and its Insuree Details table
+
 
 
 ![reg](https://github.com/mareklonicek/insurance-laravel/assets/129954181/2c6ce5b5-59d0-4e6f-96eb-b94d912e8a80)
