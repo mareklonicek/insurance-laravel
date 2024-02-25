@@ -24,7 +24,7 @@ class InsureeFactory extends Factory
             'provider_id' => \App\Models\Provider::factory(),
             'insurancetype_id' => \App\Models\Insurancetype::factory(),
             'user_id' => \App\Models\User::factory(),
-            'extras' => $this->faker->randomElements(["mushrooms", "peppers", "garlic", "olives"], rand(1, 4)),
+            'extras' => $this->faker->randomElements(["sport voucher", "travel coupon", "extra health care", "investing in our shares"], rand(1, 4)),
             'insurance_status' => $this->faker->randomElement(['Pending', 'Active', 'Expired', 'Cancelled', 'Suspended']),
             'created_at' => now(),
             'updated_at' => now(),
