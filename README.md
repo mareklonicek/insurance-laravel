@@ -30,7 +30,7 @@
 <img width="681" alt="cre" src="https://github.com/mareklonicek/insurance-laravel/assets/129954181/55903e76-1ca2-4ee7-b530-79ce7ac6a1b7">
 <img width="676" alt="det" src="https://github.com/mareklonicek/insurance-laravel/assets/129954181/64d2a944-9e9b-484a-8254-fef5ef7ca11d">
 <img width="664" alt="ins" src="https://github.com/mareklonicek/insurance-laravel/assets/129954181/61b1af48-3ff9-4eb7-8e94-ddae6b8e11b8">
-<img width="719" alt="bro" src="https://github.com/mareklonicek/insurance-laravel/assets/129954181/9a1ae9d4-0754-4806-b86d-8fba69c21c4f">
+<img width="200" height="100" alt="bro" src="https://github.com/mareklonicek/insurance-laravel/assets/129954181/9a1ae9d4-0754-4806-b86d-8fba69c21c4f">
 <img width="633" alt="search" src="https://github.com/mareklonicek/insurance-laravel/assets/129954181/8d6332e2-f006-4665-b98a-c6d77b4ad94f">
 
 
