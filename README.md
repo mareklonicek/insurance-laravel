@@ -7,7 +7,7 @@
 - **Insurance Types:** Chosen for an Insuree
 
 ## Features:
-- Full CRUD Application
+- Full CRUD Application 
 - One-to-many and one-to-one relationships
 - Eager loading data with related data tables
 - Pagination
