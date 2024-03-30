@@ -11,7 +11,7 @@
 - One-to-many and one-to-one relationships
 - Eager loading data with related data tables
 - Pagination
-- Searching
+- Searching 
 - Authentication
 - Insuree with additional properties: Status and Extra Orders
 - One-to-one relation between Insuree and its Insuree Details table
