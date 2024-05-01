@@ -12,7 +12,7 @@
 - Eager loading data with related data tables 
 - Pagination   
 - Searching  
-- Authentication 
+- Authentication  
 - Insuree with additional properties: Status and Extra Orders
 - One-to-one relation between Insuree and its Insuree Details table 
 
