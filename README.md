@@ -1,4 +1,4 @@
-# Insurance Management System Project in Laravel
+ # Insurance Management System Project in Laravel
 
 ## Tables:
 - **Users:** Registered as Brokers
@@ -13,7 +13,7 @@
 - Pagination   
 - Searching  
 - Authentication   
-- Insuree with additional properties: Status and Extra Orders
+- Insuree with additional properties: Status and Extra Orders 
 - One-to-one relation between Insuree and its Insuree Details table 
 
 
