@@ -4,7 +4,7 @@
 - **Users:** Registered as Brokers
 - **Insurees:** Created by Brokers
 - **Providers:** Chosen for an Insuree 
-- **Insurance Types:** Chosen for an Insuree
+- **Insurance Types:** Chosen for an Insuree 
 
 ## Features:  
 - Full CRUD Application   
