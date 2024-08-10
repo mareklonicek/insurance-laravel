@@ -16,7 +16,7 @@
 - Insuree with additional properties: Status and Extra Orders 
 - One-to-one relation between Insuree and its Insuree Details table     
   
-  
+   
   
 #  
 
