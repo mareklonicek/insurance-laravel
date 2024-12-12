@@ -1,7 +1,7 @@
  # Insurance Management System Project in Laravel
 
 ## Tables:
-- **Users:** Registered as Brokers
+- **Users:** Registered as Brokers 
 - **Insurees:** Created by Brokers
 - **Providers:** Chosen for an Insuree 
 - **Insurance Types:** Chosen for an Insuree 
