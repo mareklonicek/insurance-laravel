@@ -34,3 +34,4 @@
 <img width="676" alt="search" src="https://github.com/mareklonicek/insurance-laravel/assets/129954181/8d6332e2-f006-4665-b98a-c6d77b4ad94f">
 
 
+ 
